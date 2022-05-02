@@ -1,0 +1,14 @@
+i am a java programmer....
+
+the end
+
+
+added line ....
+
+
+
+
+
+ddd
+진짜끝
+:set nu
